@@ -1,14 +1,16 @@
 # chat-relay
 Raspberry Pi を使用してHipChatルームにメッセージがあったらパトランプを点滅させる
 
-# アクセスキー設定が必要な箇所
-nfc-tagtool.py
-
 
 ![image](https://user-images.githubusercontent.com/12773136/43672594-4e74b9e2-97ec-11e8-9ac2-3d44d97ed0a0.jpg)
 
 
 参照：https://qiita.com/shigeru-yokochi/items/20781796b17507b42f96
+
+
+# アクセスキー設定が必要な箇所
+chat-relay.c
+
 
 # memo
 
