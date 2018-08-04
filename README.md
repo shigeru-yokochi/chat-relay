@@ -5,6 +5,9 @@ HipChatのアクセストークンを設定する
 #define ACCESS_TOKEN	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
+![image](https://user-images.githubusercontent.com/12773136/43672594-4e74b9e2-97ec-11e8-9ac2-3d44d97ed0a0.jpg)
+
+
 # memo
 
 http://qiita.com/edo_m18/items/41770cba5c166f276a83
