@@ -8,6 +8,8 @@ HipChatのアクセストークンを設定する
 ![image](https://user-images.githubusercontent.com/12773136/43672594-4e74b9e2-97ec-11e8-9ac2-3d44d97ed0a0.jpg)
 
 
+参照：https://qiita.com/shigeru-yokochi/items/20781796b17507b42f96
+
 # memo
 
 http://qiita.com/edo_m18/items/41770cba5c166f276a83
